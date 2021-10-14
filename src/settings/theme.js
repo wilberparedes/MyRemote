@@ -1,0 +1,28 @@
+export const COLORS = {
+  PRIMARY: '#4276BA',
+  PRIMARY_LIGHT: '#1D6FB0',
+  PRIMARY_DARK: '#172542',
+  ACCENT: 'rgba(0, 0, 0, 0.87)',
+
+  BLACK: '#2e2d38',
+
+  TEXT_BLACK: '#39393A',
+  TEXT_SEMIBLACK: '#4A4A4A',
+  TEXT_DANGER: '#D0021B',
+
+  BORDER: '#EFEFEF',
+  DISABLED: '#7E7E7E',
+
+  BUTTON_PRIMARY: '#4276b9',
+
+  IN: '#89c862',
+  OUT: '#f8737e',
+  VERIFY: '#89c862',
+  NOT_VERIFY: '#f7a336',
+
+  BGSECTION: '#E0E0E0',
+
+  SUCCESS: '#89c862',
+  ERROR: '#f8737e',
+  DANGER: '#decc00',
+};
